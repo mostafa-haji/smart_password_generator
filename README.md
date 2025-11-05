@@ -16,3 +16,5 @@ print(generate_password(length=16))         # Custom length
 - Smart mode for strong security
 - Custom symbols and length
 - Beginner-friendly project
+
+#Python_password_generator #strong_password #random_secure_password #simple_beginner_project
